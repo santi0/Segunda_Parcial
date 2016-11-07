@@ -1,0 +1,29 @@
+body{
+	color:#606273;	
+}
+header{
+	background-color:#dcd8d2;
+	margin-bottom: 5px;
+}
+h1{
+	padding: 0.8em 0;
+}
+.panel{
+	border: solid 1px #ccc;
+	box-shadow: 1px 1px 1px #ccc;
+	background-color: #f1e2c9;
+}
+
+.cabecera{
+	border-bottom: solid 1px #fff;
+}
+.contenido{
+	text-align: center;
+}
+
+.compra{
+	color: #000000;
+}
+.venta{
+	color: #c22a2d;
+}
